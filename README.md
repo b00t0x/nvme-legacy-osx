@@ -1,5 +1,10 @@
 # NVMe Driver for Legacy Mac OS X
 
+<p align="center">
+  <img src="docs/mavericks.jpg" alt="OS X 10.9 Mavericks running from NVMe" width="49%">
+  <img src="docs/snow.jpg" alt="Mac OS X 10.6 Snow Leopard running from NVMe" width="49%">
+</p>
+
 This project makes the NVMe driver (NVMeGeneric) usable from Mac OS X 10.6 Snow
 Leopard through OS X 10.9 Mavericks. It provides 2 builds:
 

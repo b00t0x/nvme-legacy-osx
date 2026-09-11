@@ -1,5 +1,10 @@
 # NVMe Driver for Legacy Mac OS X
 
+<p align="center">
+  <img src="docs/mavericks.jpg" alt="NVMeから起動したOS X 10.9 Mavericks" width="49%">
+  <img src="docs/snow.jpg" alt="NVMeから起動したMac OS X 10.6 Snow Leopard" width="49%">
+</p>
+
 このプロジェクトは、NVMeドライバ(NVMeGeneric)をMac OS X 10.6 Snow LeopardからOS X 10.9 Mavericksで利用可能にします。2種類のビルドを提供します。
 
 | ビルド | 対応OS | OpenCoreのkernel範囲 |
